@@ -36,8 +36,9 @@
 .title {font-family: Arial, Helvetica, sans-serif;}
 .h1 {font-family: Arial, Helvetica, sans-serif; text-align: center; }
 .aboutus {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+  padding-top: 50%;
+  padding-right: 30%;
+  padding-bottom: 50%;
+  padding-left: 30%;
+  font-family: Arial, Helvetica, sans-serif;
 }
