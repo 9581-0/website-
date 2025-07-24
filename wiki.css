@@ -33,7 +33,12 @@
 
 .topnav {font-family: Arial, Helvetica, sans-serif;}
 .titlestuff {font-family: Arial, Helvetica, sans-serif; text-align: center; font-size: 24px;}
-.wikimenu  {font-family: Arial, Helvetica, sans-serif;}
+.wikimenu  {  
+  padding-top: 50%;
+  padding-right: 30%;
+  padding-bottom: 50%;
+  padding-left: 30%;
+  font-family: Arial, Helvetica, sans-serif;}
 
  /* Dropdown Button */
 .desdrop {
