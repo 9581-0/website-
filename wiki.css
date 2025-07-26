@@ -87,3 +87,46 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .designmenu1:hover .desdrop {background-color: #007fff;} 
+
+/* Dropdown Button II*/
+.softdrop {
+  background-color: #150203;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.designmenu2 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.desdrop-content {
+  display: none;
+  position: absolute;
+  background-color: ##FF0000;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.desdropdrop-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.desdrop-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.designmenu1:hover .desdrop-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.designmenu1:hover .desdrop {background-color: #007fff;} 
+
