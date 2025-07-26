@@ -40,11 +40,12 @@
   padding-left: 20%;
   font-family: Arial, Helvetica, sans-serif;}
 
+
  /* Dropdown Button */
 .desdrop {
   background-color: #150203;
   color: white;
-  padding: 16px;
+  padding: 5%;
   font-size: 16px;
   border: none;
 }
